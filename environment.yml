@@ -1,0 +1,8 @@
+name: ons_data
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - requests
+  - pandas
+prefix: /home/eleanor/.miniforge3/envs/ons_data
