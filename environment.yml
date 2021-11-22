@@ -5,4 +5,7 @@ dependencies:
   - jupyter
   - requests
   - pandas
+  - openpyxl
+  - matplotlib
+  - seaborn
 prefix: /home/eleanor/.miniforge3/envs/ons_data
